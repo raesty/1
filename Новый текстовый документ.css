@@ -1,0 +1,13 @@
+.nasvanie{border: 30px ridge ;     }
+.pb{color: black; width: 100px; }
+        body{}
+
+        #left{border: 15px solid silver;
+        width:350px;height: 320px;padding: 7px;font-family: fantasy; line-height: 1.1em;}
+        #pb{float:right;border: 15px solid silver; height: 320px;width: 350;}
+        #dota2{border: 15px solid silver; height: 320;width: 350; position: relative; top:10px; padding: 7px; z-index: 1;
+        font-family: fantasy}
+        #dot{float: right;border: 15px solid silver; height: 320;width: 350;position: absolute;left: 415;top:500; z-index: 3;}
+        #gift{position: fixed;top:100px;left:100px}
+        #kop{background-color: currentColor;width: 300;height: 300;}
+        body{background-color: antiquewhite}
